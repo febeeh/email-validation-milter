@@ -1,5 +1,5 @@
-# Email Validation Milter
-Python-based email validation milter using PyMilter that helps enforce sending limits per sender. It utilizes Redis for real-time tracking and throttling, ensuring compliance with predefined email policies.
+# Mail Validation Milter
+Python-based mail validation milter using PyMilter that helps enforce sending limits per sender. It utilizes Redis for real-time tracking and throttling, ensuring compliance with predefined email policies.
 
 ## 🚀 Features
 - Limits emails per sender over different time intervals:
