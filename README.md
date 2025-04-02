@@ -1,4 +1,4 @@
-# Email Validation Milter
+# Email Validation Milter For Postfix
 Python-based email validation milter using PyMilter that helps enforce sending limits per sender. It utilizes Redis for real-time tracking and throttling, ensuring compliance with predefined email policies.
 
 ## 🚀 Features
